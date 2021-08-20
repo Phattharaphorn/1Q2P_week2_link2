@@ -9,7 +9,6 @@ int main()
 		{
 			printf("*");
 		}
-		printf("");
 	}
 	for (i = 10; i >= 0; i--)
 	{
